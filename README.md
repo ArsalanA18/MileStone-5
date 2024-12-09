@@ -1,1 +1,2 @@
-# MileStone-5
+# Daraz-Landing-Clone
+The clone template of Daraz. It was my SMIT task.
